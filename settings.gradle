@@ -1,0 +1,3 @@
+rootProject.name = "Daily_homework"
+include ':app'
+include ':day07_work'
